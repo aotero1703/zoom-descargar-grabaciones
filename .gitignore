@@ -1,0 +1,11 @@
+# Credenciales: nunca subir
+zoom_credenciales.txt
+insumo.txt
+*.secret
+
+# Descargas
+zoom_grabaciones/
+*.part
+*.mp4
+*.m4a
+*.vtt
